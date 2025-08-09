@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css" integrity="sha512-xgqOKPbcUuBKdpNf8v0yVlWKJP9n5c6FNbUC8wX7T/n1eUUKo3n9+Sj+xKu+pW9QGl8X7z8+TdEdJa9/8jJ3Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
         body {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #3b82f6 0%, #1e40af 100%);
             min-height: 100vh;
         }
         .main-container {
@@ -39,7 +39,7 @@
             object-fit: cover;
         }
         .main-title {
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #3b82f6, #1e40af);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
